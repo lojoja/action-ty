@@ -1,0 +1,11 @@
+[project]
+name = "action-ty"
+version = "0.0.0"
+requires-python = ">=3.13,<4"
+dependencies = [
+  "ty (==0.0.13)"
+]
+
+[build-system]
+requires = ["uv_build>=0.9.7,<0.10.0"]
+build-backend = "uv_build"
