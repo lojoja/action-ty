@@ -1,9 +1,9 @@
 [project]
 name = "action-ty"
 version = "0.0.0"
-requires-python = ">=3.13,<4"
+requires-python = ">=3.14,<4"
 dependencies = [
-  "ty (==0.0.13)"
+  "ty (==0.0.63)",
 ]
 
 [build-system]
